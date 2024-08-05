@@ -1,2 +1,0 @@
-https://www.eia.gov/opendata/browser/electricity/rto/region-sub-ba-data?frequency=hourly&data=value;&facets=parent;subba;&parent=CISO;&subba=PGAE;&sortColumn=period;&sortDirection=desc;
-https://api.eia.gov/v2/electricity/rto/region-sub-ba-data/data/?frequency=hourly&data[0]=value&facets[parent][]=CISO&facets[subba][]=PGAE&sort[0][column]=period&sort[0][direction]=desc&offset=0&length=5000&api_key=YOUR_API_KEY
