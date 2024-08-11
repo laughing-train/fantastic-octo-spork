@@ -4147,3 +4147,7 @@ index,parent,subba,time,start,end,start_act,end_act,start_match,end_match,n_obs,
 1037,CISO,SCE,2024-08-11 13:55:50.342247+00:00,2024-08-11 08:00:00,2024-08-11 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
 1037,CISO,SDGE,2024-08-11 13:55:50.343794+00:00,2024-08-11 08:00:00,2024-08-11 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
 1037,CISO,VEA,2024-08-11 13:55:50.345173+00:00,2024-08-11 08:00:00,2024-08-11 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
+1038,CISO,PGAE,2024-08-11 14:32:47.891676+00:00,2024-08-11 08:00:00,2024-08-11 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
+1038,CISO,SCE,2024-08-11 14:32:47.892682+00:00,2024-08-11 08:00:00,2024-08-11 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
+1038,CISO,SDGE,2024-08-11 14:32:47.894199+00:00,2024-08-11 08:00:00,2024-08-11 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
+1038,CISO,VEA,2024-08-11 14:32:47.895830+00:00,2024-08-11 08:00:00,2024-08-11 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
