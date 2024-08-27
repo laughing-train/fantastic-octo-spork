@@ -8932,6 +8932,10 @@ index,parent,subba,time,start,end,start_act,end_act,start_match,end_match,n_obs,
 2233,CISO,SDGE,2024-08-27 10:43:41.746645+00:00,2024-08-26 08:00:00,2024-08-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
 2233,CISO,VEA,2024-08-27 10:43:41.748623+00:00,2024-08-26 08:00:00,2024-08-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
 2234,CISO,PGAE,2024-08-27 10:52:16.652474+00:00,2024-08-26 08:00:00,2024-08-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
-2234,CISO,SCE,2024-08-27 10:52:17.248624+00:00,2024-08-23 08:00:00,2024-08-26 07:00:00,2024-08-23 08:00:00,2024-08-26 07:00:00,True,True,72,13,refresh,False,False,"Missing values were found; The data refresh failed, please check the log; "
+2234,CISO,SCE,2024-08-27 10:52:17.248624+00:00,2024-08-23 08:00:00,2024-08-26 07:00:00,2024-08-23 08:00:00,2024-08-26 07:00:00,True,True,72.0,13.0,refresh,False,False,"Missing values were found; The data refresh failed, please check the log; "
 2234,CISO,SDGE,2024-08-27 10:52:17.252176+00:00,2024-08-26 08:00:00,2024-08-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
 2234,CISO,VEA,2024-08-27 10:52:17.254284+00:00,2024-08-26 08:00:00,2024-08-26 07:00:00,,,,,,,refresh,False,False,"No new data is available; The data refresh failed, please check the log; "
+2235,CISO,PGAE,2024-08-27 13:01:32.180896+00:00,2024-08-26 08:00:00,2024-08-27 07:00:00,2024-08-26 08:00:00,2024-08-27 07:00:00,True,True,24.0,5.0,refresh,False,False,"Missing values were found; The data refresh failed, please check the log; "
+2235,CISO,SCE,2024-08-27 13:01:42.793779+00:00,2024-08-23 08:00:00,2024-08-27 07:00:00,2024-08-23 08:00:00,2024-08-27 07:00:00,True,True,96.0,27.0,refresh,False,False,"Missing values were found; The data refresh failed, please check the log; "
+2235,CISO,SDGE,2024-08-27 13:01:51.346524+00:00,2024-08-26 08:00:00,2024-08-27 07:00:00,2024-08-26 08:00:00,2024-08-27 07:00:00,True,True,24.0,0.0,refresh,True,True,
+2235,CISO,VEA,2024-08-27 13:02:00.841013+00:00,2024-08-26 08:00:00,2024-08-27 07:00:00,2024-08-26 08:00:00,2024-08-27 07:00:00,True,True,24.0,0.0,refresh,True,True,
